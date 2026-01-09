@@ -81,8 +81,8 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahoozaso&hide_border=true&theme=tokyonight&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahoozaso&hide_border=true&theme=tokyonight&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahoozaso&hide_border=true&theme=tokyonight&show_icons=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahoozaso&hide_border=true&theme=tokyonight&layout=compact" height="160" />
 </div>
 
 <br>
