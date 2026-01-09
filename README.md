@@ -14,7 +14,6 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
     - **RAG Optimization:** Retrieval-Augmented Generation strategies
     - **Multimodal AI:** Medical VQA & Cross-modal understanding
 
-<br>
 
 #### 🎓 Education
 - **Hankuk University of Foreign Studies** (2024.03 ~ Present)
@@ -31,7 +30,7 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 | 2025.03 ~ 2025.12 | **HUFS AdvICE** | Operator |
 | 2024.03 ~ 2024.12 | **HUFS AdvICE** | Member |
 
-### 🔬 Research Interests & Projects
+### 🔬 Researches
 
 | Domain | Topic | Description | Status |
 | :--- | :--- | :--- | :---: |
@@ -80,10 +79,9 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahoozaso&hide_border=true&theme=tokyonight&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahoozaso&hide_border=true&theme=tokyonight&layout=compact" height="160" />
-</div>
+[![GyuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahoozaso&hide_border=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahoozaso&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
