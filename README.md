@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=GyuMin%20Kim&fontSize=50&fontAlign=50&desc=Undergraduate%20Researcher%20@%20HUFS&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn" width="100%" />
 </div>
 
-<br>
 
 ### 🧑‍💻 About Me
 
@@ -14,12 +13,14 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
     - **RAG Optimization:** Retrieval-Augmented Generation strategies
     - **Multimodal AI:** Medical VQA & Cross-modal understanding
 
+<br>
 
 #### 🎓 Education
 - **Hankuk University of Foreign Studies** (2024.03 ~ Present)
     - Department of Information Communications Engineering
     - Department of English Linguistics & Language Technology
 
+<br>
 
 ### 🔭 Research & Experience
 
@@ -29,6 +30,8 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 | 2025.03 ~ 2025.12 | **HUFS Information and Communication Engineering** | Assist |
 | 2025.03 ~ 2025.12 | **HUFS AdvICE** | Operator |
 | 2024.03 ~ 2024.12 | **HUFS AdvICE** | Member |
+
+<br>
 
 ### 🔬 Researches
 
