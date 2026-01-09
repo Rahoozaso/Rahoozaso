@@ -33,15 +33,6 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 
 <br>
 
-### 🔬 Researches
-
-| Domain | Topic | Description | Status |
-| :--- | :--- | :--- | :---: |
-| **LLM / Theory** | **SERC** | **Semantic Error-Reduction and Correction**<br>Hallucination mitigation using LDPC codes | 🚀 Active |
-| **Agent** | **MAP** | **Metacognitive Analysis Prompting**<br>Protocol for improving agent decision-making | 🚀 Active |
-
-<br>
-
 ### 🛠 Skills & Tools
 
 <div align="center">
