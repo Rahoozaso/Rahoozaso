@@ -27,7 +27,7 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 | Period | Organization / Role | Description |
 | :--- | :--- | :--- |
 | 2025.12 ~ Present | **HUFS HAI Lab** | Undergraduate Intern |
-| 2025.03 ~ 2025.12 | **HUFS Information and Communication Engineering** | Assist |
+| 2025.03 ~ 2025.12 | **HUFS Information and Communication Engineering** | Assistant |
 | 2025.03 ~ 2025.12 | **HUFS AdvICE** | Operator |
 | 2024.03 ~ 2024.12 | **HUFS AdvICE** | Member |
 
@@ -77,14 +77,6 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
 </div>
-
-<br>
-
-### 📈 GitHub Stats
-
-[![GyuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahoozaso&hide_border=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahoozaso&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
