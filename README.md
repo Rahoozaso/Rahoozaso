@@ -39,7 +39,6 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 | :--- | :--- | :--- | :---: |
 | **LLM / Theory** | **SERC** | **Semantic Error-Reduction and Correction**<br>Hallucination mitigation using LDPC codes | 🚀 Active |
 | **Agent** | **MAP** | **Metacognitive Analysis Prompting**<br>Protocol for improving agent decision-making | 🚀 Active |
-| **Agent** | **MAESTRO** | **Autonomous Code Refactoring** agent framework | 🚀 Active |
 
 <br>
 
