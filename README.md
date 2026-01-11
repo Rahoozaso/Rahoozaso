@@ -86,8 +86,8 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
   <a href="https://www.instagram.com/rahoozaso/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/gyumin-kim-b156363a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="www.linkedin.com/in/gyumin-kim-b156363a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
 </div>
