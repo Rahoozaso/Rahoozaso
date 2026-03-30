@@ -9,9 +9,10 @@ Hello! I am an undergraduate researcher majoring in **Information and Communicat
 I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**, and **Medical AI** to build reliable and trustworthy AI systems.
 
 - 🔭 **Current Focus:**
-    - **LLM Reliability:** Hallucination Mitigation (Information Theory & ECC)
-    - **RAG Optimization:** Retrieval-Augmented Generation strategies
-    - **Multimodal AI:** Medical VQA & Cross-modal understanding
+    - **LLM Reliability**
+    - **Multimodal AI**
+    - **Quantum Machine Learning**
+    - **Medical AI**
 
 <br>
 
