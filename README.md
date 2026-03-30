@@ -27,8 +27,9 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 
 | Period | Organization / Role | Description |
 | :--- | :--- | :--- |
+| 2026.03 ~ Present | **HUFS AI&Software** | Assistant |
 | 2025.12 ~ Present | **HUFS HAI Lab** | Undergraduate Intern |
-| 2025.03 ~ 2025.12 | **HUFS Information and Communication Engineering** | Assistant |
+| 2025.03 ~ Present | **HUFS Information and Communication Engineering** | Assistant |
 | 2025.03 ~ 2025.12 | **HUFS AdvICE** | Operator |
 | 2024.03 ~ 2024.12 | **HUFS AdvICE** | Member |
 
