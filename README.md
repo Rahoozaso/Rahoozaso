@@ -36,8 +36,7 @@ I am dedicated to building reliable and trustworthy AI systems. My research jour
 
 - **MAP: 불확실성 인지 및 메타인지 합성 프레임워크** <br>
   ***Gyumin Kim***, Jaeha Kim, Heedo Yoon, Minwoo Sun, Minjun Kim, Ilchul Doo <br>
-  **2025년 한국정보기술전략혁신학회 동계학술대회** | [📄 Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12570966)
-
+  **2025년 한국정보기술전략혁신학회 동계학술대회** | [💻 Code](https://github.com/jha135/MAP) | [📄 Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12570966)
 <br>
 
 ### 🔭 Research & Experience
