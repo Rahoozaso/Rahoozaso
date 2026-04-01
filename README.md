@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 Hello! I am an undergraduate researcher majoring in **Information and Communication Engineering** at **Hankuk University of Foreign Studies (HUFS)**.  
-I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**, and **Medical AI** to build reliable and trustworthy AI systems.
+I am dedicated to building reliable and trustworthy AI systems. My research journey spans from enhancing **LLM Reliability** and advancing **Multimodal AI** for healthcare, to exploring the frontier of **Quantum Machine Learning** and **Medical AI**.
 
 - 🔭 **Current Focus:**
     - **LLM Reliability**
@@ -20,6 +20,23 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
 - **Hankuk University of Foreign Studies** (2024.03 ~ Present)
     - Department of Information Communications Engineering
     - Department of English Linguistics & Language Technology
+
+<br>
+
+### 🔥 News
+- **[2026.04]** 🎉 Our paper "SERC: LDPC-Inspired Semantic Error Correction for Retrieval-Augmented Generation" has been accepted to **ICPR 2026**!
+- **[2025.11]** 📝 Our paper "MAP: 불확실성 인지 및 메타인지 합성 프레임워크" was published in the *Winter Conference of KITTI*.
+
+<br>
+
+### 📝 Publications
+- **SERC: LDPC-Inspired Semantic Error Correction for Retrieval-Augmented Generation** <br>
+  ***Gyumin Kim***, Juhwan Park, Jaeha Kim, Seunggyun Han, Kyungrak Son, Ikbeom Jang <br>
+  **ICPR 2026** | [💻 Code](https://github.com/Rahoozaso/SERC) | [📄 Paper (Coming Soon)](#)
+
+- **MAP: 불확실성 인지 및 메타인지 합성 프레임워크** <br>
+  ***Gyumin Kim***, Jaeha Kim, Heedo Yoon, Minwoo Sun, Minjun Kim, Ilchul Doo <br>
+  **2025년 한국정보기술전략혁신학회 동계학술대회** | [📄 Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12570966)
 
 <br>
 
@@ -47,6 +64,8 @@ I am passionately exploring **Large Language Models (LLMs)**, **Multimodality**,
   <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeSurfer-00529B?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
