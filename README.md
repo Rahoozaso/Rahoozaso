@@ -32,7 +32,7 @@ I am dedicated to building reliable and trustworthy AI systems. My research jour
 ### 📝 Publications
 - **SERC: LDPC-Inspired Semantic Error Correction for Retrieval-Augmented Generation** <br>
   ***Gyumin Kim***, Juhwan Park, Jaeha Kim, Seunggyun Han, Kyungrak Son, Ikbeom Jang <br>
-  **ICPR 2026** | [💻 Code](https://github.com/Rahoozaso/SERC) | [📄 Paper (Coming Soon)](#)
+  **ICPR 2026** | [💻 Code](https://github.com/labhai/SERC) | [📄 Paper (Coming Soon)](#)
 
 - **MAP: 불확실성 인지 및 메타인지 합성 프레임워크** <br>
   ***Gyumin Kim***, Jaeha Kim, Heedo Yoon, Minwoo Sun, Minjun Kim, Ilchul Doo <br>
